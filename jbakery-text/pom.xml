@@ -5,7 +5,7 @@
 
 	<groupId>org.jbakery</groupId>
 	<artifactId>jbakery-text</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 	<name>jbakery-text</name>
 	<description>Text-related facilities, including assorted parsing capabilities.</description>
